@@ -1,0 +1,15 @@
+C:\Users\Глеб\source\repos\PR1\PR1\bin\Debug\PR1.exe.config
+C:\Users\Глеб\source\repos\PR1\PR1\bin\Debug\PR1.exe
+C:\Users\Глеб\source\repos\PR1\PR1\bin\Debug\PR1.pdb
+C:\Users\Глеб\source\repos\PR1\PR1\obj\Debug\PR1.csproj.AssemblyReference.cache
+C:\Users\Глеб\source\repos\PR1\PR1\obj\Debug\MainWindow.g.cs
+C:\Users\Глеб\source\repos\PR1\PR1\obj\Debug\App.g.cs
+C:\Users\Глеб\source\repos\PR1\PR1\obj\Debug\PR1_MarkupCompile.cache
+C:\Users\Глеб\source\repos\PR1\PR1\obj\Debug\PR1_MarkupCompile.lref
+C:\Users\Глеб\source\repos\PR1\PR1\obj\Debug\MainWindow.baml
+C:\Users\Глеб\source\repos\PR1\PR1\obj\Debug\PR1.g.resources
+C:\Users\Глеб\source\repos\PR1\PR1\obj\Debug\PR1.Properties.Resources.resources
+C:\Users\Глеб\source\repos\PR1\PR1\obj\Debug\PR1.csproj.GenerateResource.cache
+C:\Users\Глеб\source\repos\PR1\PR1\obj\Debug\PR1.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\PR1\PR1\obj\Debug\PR1.exe
+C:\Users\Глеб\source\repos\PR1\PR1\obj\Debug\PR1.pdb
