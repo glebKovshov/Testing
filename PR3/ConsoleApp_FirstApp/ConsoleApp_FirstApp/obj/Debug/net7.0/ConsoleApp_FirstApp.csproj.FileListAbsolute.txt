@@ -1,0 +1,14 @@
+C:\Users\Глеб\source\repos\ConsoleApp_FirstApp\ConsoleApp_FirstApp\bin\Debug\net7.0\ConsoleApp_FirstApp.exe
+C:\Users\Глеб\source\repos\ConsoleApp_FirstApp\ConsoleApp_FirstApp\bin\Debug\net7.0\ConsoleApp_FirstApp.deps.json
+C:\Users\Глеб\source\repos\ConsoleApp_FirstApp\ConsoleApp_FirstApp\bin\Debug\net7.0\ConsoleApp_FirstApp.runtimeconfig.json
+C:\Users\Глеб\source\repos\ConsoleApp_FirstApp\ConsoleApp_FirstApp\bin\Debug\net7.0\ConsoleApp_FirstApp.dll
+C:\Users\Глеб\source\repos\ConsoleApp_FirstApp\ConsoleApp_FirstApp\bin\Debug\net7.0\ConsoleApp_FirstApp.pdb
+C:\Users\Глеб\source\repos\ConsoleApp_FirstApp\ConsoleApp_FirstApp\obj\Debug\net7.0\ConsoleApp_FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Глеб\source\repos\ConsoleApp_FirstApp\ConsoleApp_FirstApp\obj\Debug\net7.0\ConsoleApp_FirstApp.AssemblyInfoInputs.cache
+C:\Users\Глеб\source\repos\ConsoleApp_FirstApp\ConsoleApp_FirstApp\obj\Debug\net7.0\ConsoleApp_FirstApp.AssemblyInfo.cs
+C:\Users\Глеб\source\repos\ConsoleApp_FirstApp\ConsoleApp_FirstApp\obj\Debug\net7.0\ConsoleApp_FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\ConsoleApp_FirstApp\ConsoleApp_FirstApp\obj\Debug\net7.0\ConsoleApp_FirstApp.dll
+C:\Users\Глеб\source\repos\ConsoleApp_FirstApp\ConsoleApp_FirstApp\obj\Debug\net7.0\refint\ConsoleApp_FirstApp.dll
+C:\Users\Глеб\source\repos\ConsoleApp_FirstApp\ConsoleApp_FirstApp\obj\Debug\net7.0\ConsoleApp_FirstApp.pdb
+C:\Users\Глеб\source\repos\ConsoleApp_FirstApp\ConsoleApp_FirstApp\obj\Debug\net7.0\ConsoleApp_FirstApp.genruntimeconfig.cache
+C:\Users\Глеб\source\repos\ConsoleApp_FirstApp\ConsoleApp_FirstApp\obj\Debug\net7.0\ref\ConsoleApp_FirstApp.dll

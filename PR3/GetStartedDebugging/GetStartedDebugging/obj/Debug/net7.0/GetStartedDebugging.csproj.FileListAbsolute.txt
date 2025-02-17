@@ -1,0 +1,14 @@
+C:\Users\Глеб\source\repos\GetStartedDebugging\GetStartedDebugging\bin\Debug\net7.0\GetStartedDebugging.exe
+C:\Users\Глеб\source\repos\GetStartedDebugging\GetStartedDebugging\bin\Debug\net7.0\GetStartedDebugging.deps.json
+C:\Users\Глеб\source\repos\GetStartedDebugging\GetStartedDebugging\bin\Debug\net7.0\GetStartedDebugging.runtimeconfig.json
+C:\Users\Глеб\source\repos\GetStartedDebugging\GetStartedDebugging\bin\Debug\net7.0\GetStartedDebugging.dll
+C:\Users\Глеб\source\repos\GetStartedDebugging\GetStartedDebugging\bin\Debug\net7.0\GetStartedDebugging.pdb
+C:\Users\Глеб\source\repos\GetStartedDebugging\GetStartedDebugging\obj\Debug\net7.0\GetStartedDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Глеб\source\repos\GetStartedDebugging\GetStartedDebugging\obj\Debug\net7.0\GetStartedDebugging.AssemblyInfoInputs.cache
+C:\Users\Глеб\source\repos\GetStartedDebugging\GetStartedDebugging\obj\Debug\net7.0\GetStartedDebugging.AssemblyInfo.cs
+C:\Users\Глеб\source\repos\GetStartedDebugging\GetStartedDebugging\obj\Debug\net7.0\GetStartedDebugging.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\GetStartedDebugging\GetStartedDebugging\obj\Debug\net7.0\GetStartedDebugging.dll
+C:\Users\Глеб\source\repos\GetStartedDebugging\GetStartedDebugging\obj\Debug\net7.0\refint\GetStartedDebugging.dll
+C:\Users\Глеб\source\repos\GetStartedDebugging\GetStartedDebugging\obj\Debug\net7.0\GetStartedDebugging.pdb
+C:\Users\Глеб\source\repos\GetStartedDebugging\GetStartedDebugging\obj\Debug\net7.0\GetStartedDebugging.genruntimeconfig.cache
+C:\Users\Глеб\source\repos\GetStartedDebugging\GetStartedDebugging\obj\Debug\net7.0\ref\GetStartedDebugging.dll
