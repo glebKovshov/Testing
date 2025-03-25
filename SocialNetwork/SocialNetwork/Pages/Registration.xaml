@@ -1,0 +1,51 @@
+﻿<Page x:Class="SocialNetwork.Pages.Registration"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SocialNetwork.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Registration" Background="{StaticResource BackgroundBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <!-- Заголовок -->
+        <TextBlock Grid.Row="0" Text="Регистрация"
+                       HorizontalAlignment="Center" VerticalAlignment="Bottom"
+                       Style="{StaticResource TitleText}"/>
+
+        <!-- Поле ввода имени пользователя -->
+        <TextBox Name="UsernameTextBox" Grid.Row="1" Width="200" Height="25"/>
+
+        <!-- Поле ввода email -->
+        <TextBox Name="EmailTextBox" Grid.Row="2" Width="200" Height="25"/>
+
+        <!-- Поле ввода первого пароля -->
+        <PasswordBox Name="PassWordTextBoxFirst" Grid.Row="3" Width="200" Height="25"/>
+
+        <!-- Поле ввода повторного пароля -->
+        <PasswordBox Name="PassWordTextBoxSecond" Grid.Row="4" Width="200" Height="25"/>
+
+        <!-- Кнопка регистрации -->
+        <Button Grid.Row="5" Width="150" Height="30" Content="Зарегистрироваться" Click="Entry_Click"/>
+
+        <!-- Лейблы -->
+        <Label Content="Login" Margin="231,13,0,0" Grid.Row="1" Style="{StaticResource LabelStyle}"/>
+        <Label Content="Email" HorizontalAlignment="Left" Margin="232,14,0,0" Grid.Row="2" VerticalAlignment="Top" Style="{StaticResource LabelStyle}"/>
+        <Label Content="Password" Margin="204,14,0,0" Grid.Row="3" Style="{StaticResource LabelStyle}"/>
+        <Label Content="Repeat Password" Margin="151,0,0,0" Grid.Row="4" VerticalAlignment="Center" Style="{StaticResource LabelStyle}"/>
+
+        <!-- Кнопка назад -->
+        <Button Name="BackButton" Content="Х" HorizontalAlignment="Right" Margin="0,10,10,0" 
+                    VerticalAlignment="Top" Click="BackButton_Click"/>
+    </Grid>
+</Page>

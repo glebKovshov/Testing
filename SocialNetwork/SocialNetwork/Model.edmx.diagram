@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e3463c22ff344c16b1318bff4bcec2be" Name="Diagram1" ZoomLevel="18">
+        <EntityTypeShape EntityType="social_networkModel.Advertisements" Width="1.5" PointX="3" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="social_networkModel.Comments" Width="1.5" PointX="5.25" PointY="25" IsExpanded="true" />
+        <EntityTypeShape EntityType="social_networkModel.Friends" Width="1.5" PointX="3" PointY="13" IsExpanded="true" />
+        <EntityTypeShape EntityType="social_networkModel.GroupMembers" Width="1.5" PointX="5.25" PointY="17.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="social_networkModel.Groups" Width="1.5" PointX="3" PointY="19.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="social_networkModel.Likes" Width="1.5" PointX="5.25" PointY="28.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="social_networkModel.Media" Width="1.5" PointX="3" PointY="25.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="social_networkModel.Messages" Width="1.5" PointX="3" PointY="28" IsExpanded="true" />
+        <EntityTypeShape EntityType="social_networkModel.Notifications" Width="1.5" PointX="3" PointY="31.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="social_networkModel.Posts" Width="1.5" PointX="3" PointY="34.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="social_networkModel.sysdiagrams" Width="1.875" PointX="0.875" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="social_networkModel.Users" Width="1.5" PointX="0.75" PointY="15.125" IsExpanded="true" />
+        <AssociationConnector Association="social_networkModel.FK__Advertise__adver__2DE6D218" ManuallyRouted="false" />
+        <AssociationConnector Association="social_networkModel.FK__Comments__post_i__0B91BA14" ManuallyRouted="false" />
+        <AssociationConnector Association="social_networkModel.FK__Comments__user_i__0C85DE4D" ManuallyRouted="false" />
+        <AssociationConnector Association="social_networkModel.FK__Friends__user_id__151B244E" ManuallyRouted="false" />
+        <AssociationConnector Association="social_networkModel.FK__Friends__user_id__160F4887" ManuallyRouted="false" />
+        <AssociationConnector Association="social_networkModel.FK__GroupMemb__group__22751F6C" ManuallyRouted="false" />
+        <AssociationConnector Association="social_networkModel.FK__GroupMemb__user___236943A5" ManuallyRouted="false" />
+        <AssociationConnector Association="social_networkModel.FK__Groups__created___1EA48E88" ManuallyRouted="false" />
+        <AssociationConnector Association="social_networkModel.FK__Likes__post_id__10566F31" ManuallyRouted="false" />
+        <AssociationConnector Association="social_networkModel.FK__Likes__user_id__114A936A" ManuallyRouted="false" />
+        <AssociationConnector Association="social_networkModel.FK__Media__user_id__2B0A656D" ManuallyRouted="false" />
+        <AssociationConnector Association="social_networkModel.FK__Messages__receiv__1AD3FDA4" ManuallyRouted="false" />
+        <AssociationConnector Association="social_networkModel.FK__Messages__sender__19DFD96B" ManuallyRouted="false" />
+        <AssociationConnector Association="social_networkModel.FK__Notificat__user___2739D489" ManuallyRouted="false" />
+        <AssociationConnector Association="social_networkModel.FK__Posts__user_id__07C12930" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,45 @@
+﻿<Page x:Class="SocialNetwork.Pages.CommentsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SocialNetwork.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="CommentsPage" Background="{StaticResource BackgroundBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <DataGrid Grid.Row="0" Grid.ColumnSpan="2" Name="DataGridComments" 
+                  AutoGenerateColumns="False" IsReadOnly="True"
+                  Style="{StaticResource DataGridStyle}"
+                  ColumnHeaderStyle="{StaticResource DataGridColumnHeaderStyle}"
+                  HeadersVisibility="Column">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Id" Binding="{Binding comment_id}"/>
+                <DataGridTextColumn Header="PostId" Binding="{Binding post_id}"/>
+                <DataGridTextColumn Header="UserId" Binding="{Binding user_id}"/>
+                <DataGridTextColumn Header="Content" Binding="{Binding content}"/>
+                <DataGridTextColumn Header="CreatedAt" Binding="{Binding created_at}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <Button Name="BackButton" 
+                Grid.Row="1" Grid.Column="0"
+                Width="100" Height="50"
+                Content="Назад" Click="BackButton_Click"/>
+
+        <Button Name="NextButton"
+                Grid.Row="1" Grid.Column="1"
+                Width="150" Height="50"
+                Content="Следующая страница" Click="NextButton_Click"/>
+    </Grid>
+</Page>
