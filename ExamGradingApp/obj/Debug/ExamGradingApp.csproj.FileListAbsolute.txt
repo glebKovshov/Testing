@@ -1,0 +1,15 @@
+C:\Users\Глеб\source\repos\ExamGradingApp\bin\Debug\ExamGradingApp.exe.config
+C:\Users\Глеб\source\repos\ExamGradingApp\bin\Debug\ExamGradingApp.exe
+C:\Users\Глеб\source\repos\ExamGradingApp\bin\Debug\ExamGradingApp.pdb
+C:\Users\Глеб\source\repos\ExamGradingApp\obj\Debug\ExamGradingApp.csproj.AssemblyReference.cache
+C:\Users\Глеб\source\repos\ExamGradingApp\obj\Debug\MainWindow.g.cs
+C:\Users\Глеб\source\repos\ExamGradingApp\obj\Debug\App.g.cs
+C:\Users\Глеб\source\repos\ExamGradingApp\obj\Debug\ExamGradingApp_MarkupCompile.cache
+C:\Users\Глеб\source\repos\ExamGradingApp\obj\Debug\ExamGradingApp_MarkupCompile.lref
+C:\Users\Глеб\source\repos\ExamGradingApp\obj\Debug\MainWindow.baml
+C:\Users\Глеб\source\repos\ExamGradingApp\obj\Debug\ExamGradingApp.g.resources
+C:\Users\Глеб\source\repos\ExamGradingApp\obj\Debug\ExamGradingApp.Properties.Resources.resources
+C:\Users\Глеб\source\repos\ExamGradingApp\obj\Debug\ExamGradingApp.csproj.GenerateResource.cache
+C:\Users\Глеб\source\repos\ExamGradingApp\obj\Debug\ExamGradingApp.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\ExamGradingApp\obj\Debug\ExamGradingApp.exe
+C:\Users\Глеб\source\repos\ExamGradingApp\obj\Debug\ExamGradingApp.pdb
